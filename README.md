@@ -138,15 +138,32 @@ This repository presents a source-architecture proposition and design target. Th
 
 > **DPP failed because its electrode could not be cooled. Apply Cools patented conductive cooling, release the thermal ceiling, and DPP can surpass LPP-class EUV power.**
 
+## Intellectual property and transaction options
+
+The cooling architectures, electrode structures, thermal-control sequences, source-system concepts, figures, and associated implementation know-how described in this repository are protected, as applicable, by granted patents, pending patent applications, and proprietary know-how of Cools Inc.
+
+Cools is open to structured discussions with qualified strategic partners. Depending on the source architecture, field, territory, and transaction scope, potential structures may include:
+
+- exclusive or non-exclusive patent licensing;
+- field-of-use or territory-limited rights;
+- cooling architecture and source-system technology transfer;
+- joint electrode, source, and collector-system development;
+- strategic investment or transfer of the relevant technology business; and
+- where commercially appropriate, assignment or transfer of the relevant patents, patent applications, and associated rights themselves.
+
+**Negotiations are not limited to a licence. Where the transaction purpose and conditions are appropriate, the relevant patent portfolio itself may be included in the transaction.**
+
+Any transaction is subject to technical and legal due diligence and a definitive written agreement.
+
 ---
 
 **Dr. Jinhyun Cho — Founder & CEO, Cools Inc.**  
 Email: [jhcho@cools.co.kr](mailto:jhcho@cools.co.kr)
 
-For technical review, licensing, joint development, or source-system collaboration, please contact Cools Inc.
+For technical review, licensing, patent-inclusive transactions, technology transfer, investment, joint development, or source-system collaboration, please contact Cools Inc.
 
 ## Notice
 
-This repository describes a Cools source-architecture proposal and associated patented or patent-pending cooling concepts. Publication does not grant any licence, implied right, or permission to practise the disclosed technology.
+This repository describes a Cools source-architecture proposal and associated patented or patent-pending cooling concepts. Publication does not grant any licence, implied right, waiver, or permission to practise the disclosed technology. All relevant patent rights, pending application rights, technical materials, figures, and associated commercial rights are reserved by Cools Inc.
 
 © 2026 Cools Inc. All rights reserved.
