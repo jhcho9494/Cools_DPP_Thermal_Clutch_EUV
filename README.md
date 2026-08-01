@@ -11,6 +11,18 @@
 
 ---
 
+# ⚡ DPP IS NOT AN INFERIOR ROUTE TO EUV
+
+> ## **DPP did not fall behind LPP because the plasma principle was inferior. Its historical limit was thermal: the electrode reached its heat ceiling before the source could fully scale.**
+>
+> When the plasma-facing electrode, transient thermal buffer, high-conductivity heat path, and rear cooling system are engineered as one integrated architecture using **Cools patented thermal-management and conductive-cooling technology**, the allowable discharge power and repetition rate can rise far beyond conventional DPP limits.
+>
+> **Cools' technical proposition is clear: once the electrode thermal ceiling is removed, DPP can scale to LPP-class output and can ultimately exceed the absolute EUV output of LPP-based source systems—while retaining direct electrical drive, a simpler source chain, and a direct solid-state path for heat extraction.**
+>
+> ### **The question is no longer whether DPP can compete with LPP. The question is how far DPP can scale once heat is no longer the limiting factor.**
+
+---
+
 # Cools DPP Thermal Clutch EUV
 
 ## Cools patented cooling can enable DPP to surpass LPP-class EUV power
