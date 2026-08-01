@@ -1,21 +1,13 @@
-# 🚨 DPP EUV TECHNOLOGY — DIRECTLY OPEN TO ASML, AISHENGNA AND SMEE
+# 🌐 DPP EUV THERMAL TECHNOLOGY — OPEN TO GLOBAL PARTNERS
 
-> ## **Cools explicitly opens its patent-protected DPP Thermal Clutch EUV technology to the world’s lithography industry.**
+> ## **Cools opens its patent-protected DPP electrode thermal-management and conductive-cooling technology to qualified companies and institutions worldwide.**
 >
-> The technology is **directly and equally open** to:
+> Cools welcomes legitimate discussions with **any company, research institution, equipment manufacturer, or strategic partner worldwide**, regardless of country, region, or company size.
 >
-> - **ASML — Netherlands**
-> - **Shanghai Aishengna Electronic Technology Group — China**
-> - **Shanghai Micro Electronics Equipment (Group) Co., Ltd. (SMEE) — China**
+> This is a direct invitation to discuss **exclusive or non-exclusive patent licensing, patent assignment, joint development, DPP electrode and EUV-source integration, technology transfer, manufacturing collaboration, field-of-use rights, territorial rights, and commercialization.**
 >
-> This is not a general statement of interest. It is a **direct invitation to begin technical review and transaction discussions now.** Cools is prepared to discuss **exclusive or non-exclusive patent licensing, patent assignment, joint development, DPP electrode and EUV-source integration, technology transfer, manufacturing collaboration, field-of-use rights, territorial rights, and commercialization.**
->
-> **There is no national, geopolitical, or industry-bloc exclusion. Cools offers the same technology to both the Dutch and Chinese lithography industries.** The company that moves first can open the earliest path to technical evaluation, joint development, and transaction negotiations.
->
-> ### **Do not imitate it. Do not work around it. Work with Cools.**
-> ### **The patents are protected. The technology is available for transaction.**
-
-### **ASML · Shanghai Aishengna · SMEE — Cools is ready to talk now.**
+> ### **Protected by patents. Open to legitimate global technology transactions.**
+> ### **Organizations interested in technical evaluation or commercialization are invited to contact Cools directly.**
 
 ---
 
